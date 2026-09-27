@@ -38,16 +38,15 @@ I work as Chief Technical Assistant I at the Digital Language Lab, Bahir Dar Uni
 ![VPS](https://img.shields.io/badge/VPS_Hosting-333333?style=for-the-badge&logo=serverfault&logoColor=white)
 
 ## 📂 Featured Projects
-
-| Project | Description |
-|---|---|
-| [Shegahasab.com](https://shegahasab.com) | A platform that connects traditional medicine clinics with patients |
-| [Shegasab.com](https://shegasab.com) | A networking platform for innovators and entrepreneurs |
-| Amharic Word Suggestion Tool | A Python tool that suggests correct Amharic words as you type, built from about 950,000 Amharic words collected from the web |
-| TF-IDF Search Project | An information retrieval project that ranks documents by how relevant they are to a search query |
+| Project | Description | My Role |
+|---|---|---|
+| [Shegahasab.com](https://shegahasab.com) | A platform that connects traditional medicine clinics with patients | Original developer, built for Shegasab Consultancy PLC |
+| [Shegasab.com](https://shegasab.com) | A networking platform for innovators and entrepreneurs | Original developer, built for Shegasab Consultancy PLC |
+| Amharic Word Suggestion Tool | A Python tool that suggests correct Amharic words as you type, built from about 950,000 Amharic words collected from the web | Personal project |
+| TF-IDF Search Project | An information retrieval project that ranks documents by how relevant they are to a search query | Academic project |
 
 ## 📫 How to Reach Me
 
-- 📧 Email: mulusewenawugaw2gmail.com
+- 📧 Email: mulusewenawugaw@gmail.com
 
 ⭐ Thank you for visiting my profile!
